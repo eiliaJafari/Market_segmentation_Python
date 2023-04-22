@@ -6,3 +6,5 @@ A market segmentation project with python
 * Kmeans, PCA
 
 Dividing a company's customers into 3 segments with the help of kmeans, PCA and python libraries.
+
+** For better results, use Google Colab
